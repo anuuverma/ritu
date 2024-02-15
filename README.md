@@ -1,7 +1,7 @@
 <html>
   <head>
-    <title>department</title>
-    <h1>paragraph</h1>
+    <title>departmentof students</title>
+    <h1>student id</h1>
     <p>subject</p>
     <p>class</p>
   </head>
